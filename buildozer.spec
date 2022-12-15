@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = QR
+title = QRH
 
 # (str) Package name
 package.name = qsc
